@@ -40,7 +40,7 @@ An interactive **Sorting Algorithm Visualizer** built using **OpenGL and GLUT in
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer-opengl.git
+   git clone https://github.com/Anurag-daundkar/Sorting-Algorithm-Visualizer.git
    cd sorting-visualizer-opengl
 2. **Compile the program:**
    ```bash
